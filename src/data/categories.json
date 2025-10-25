@@ -1,0 +1,17 @@
+[
+  {
+    "id": "simple",
+    "name": "Simple Molecules",
+    "icon": "molecule"
+  },
+  {
+    "id": "organic",
+    "name": "Organic Compounds",
+    "icon": "leaf"
+  },
+  {
+    "id": "biological",
+    "name": "Biological Molecules",
+    "icon": "dna"
+  }
+]
